@@ -57,7 +57,7 @@ h1 {
 
 @media (max-width: 768px) {
     body {
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
     h1 {
         font-size: 1.8rem;     
